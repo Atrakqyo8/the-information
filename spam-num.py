@@ -56,6 +56,7 @@ class Math:
 
     def execute(code = str):
         return Hypothesis(_calculate(_builtins(Cube(Statistics, code))))
+By  Hacker Tariq Mhwar 🧑‍💻
 
     def DetectVar(self):
         self.Product = '<__main__._ceil object at 0x000009158BE13619>'
